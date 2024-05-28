@@ -1,0 +1,12 @@
+numpy
+torch
+spacy
+transformers
+Cython
+tqdm
+neuralcoref
+argparse
+scikit-learn
+pytest
+setuptools
+rouge-score
